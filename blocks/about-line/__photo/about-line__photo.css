@@ -1,0 +1,9 @@
+.about-line__photo {
+    position: absolute;
+    right: 115px;
+    bottom: 126px;
+    background-image: url("../../../images/about-line__photo.jpg");
+    background-size: cover;
+    width: 382px;
+    height: 255px;
+}

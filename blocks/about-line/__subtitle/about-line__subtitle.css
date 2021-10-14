@@ -1,0 +1,10 @@
+.about-line__subtitle {
+  margin: 0;
+  width: 347px;
+  position: absolute;
+  left: 105px;
+  top: 160px;
+  color: #5b5b5b;
+  font-size: 11.25px;
+  line-height: 15px;
+}

@@ -1,0 +1,19 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts.css");
+
+@import url("../blocks/page/page.css");
+@import url("../blocks/page/__section/page__section.css");
+
+@import url("../blocks/test_block/test.css");
+
+@import url("../blocks/about-line/about-line.css");
+@import url("../blocks/about-line/__header/about-line__header.css");
+@import url("../blocks/about-line/__subtitle/about-line__subtitle.css");
+@import url("../blocks/about-line/__square/about-line__square.css");
+@import url("../blocks/about-line/__definition/about-line__definition.css");
+@import url("../blocks/about-line/__definition-text/about-line__definition-text.css");
+@import url("../blocks/about-line/decor-02/about-line__decor-02.css");
+@import url("../blocks/about-line/decor-03/about-line__decor-03.css");
+@import url("../blocks/about-line/decor-04/about-line__decor-04.css");
+@import url("../blocks/about-line/decor-05/about-line__decor-05.css");
+@import url("../blocks/about-line/__photo/about-line__photo.css");

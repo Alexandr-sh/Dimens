@@ -1,0 +1,12 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  font-family: "Roboto", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  color: #ffffff;
+  background-color: #ffffff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}

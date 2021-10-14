@@ -1,0 +1,9 @@
+.about-line__decor-04 {
+    position: absolute;
+    top: -35px;
+    right: 28px;
+    background-image: url("../../../images/decor-04.svg");
+    width: 93px;
+    height: 186px;
+    fill: #E8AAF0;
+}

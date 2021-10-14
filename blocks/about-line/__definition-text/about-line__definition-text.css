@@ -1,0 +1,14 @@
+.about-line__definition-text {
+  margin: 0;
+  position: absolute;
+  top: 23px;
+  left: 36px;
+  width: 229px;
+  font-family: Montserrat;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 8.8416px;
+  line-height: 11px;
+
+  color: #6d097a;
+}
